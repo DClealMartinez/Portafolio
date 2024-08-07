@@ -7,7 +7,20 @@ Utilizo una combinación de técnicas estadísticas, aprendizaje automático y v
 
 Explora los proyectos a continuación para ver ejemplos de mi trabajo y comprender cómo puedo contribuir a tus objetivos. Estoy comprometido con la excelencia y la innovación en el análisis de datos, y estoy emocionado de la posibilidad de colaborar en futuros proyectos.
 
-Gracias por tu visita, y no dudes en ponerte en contacto para discutir cómo puedo aportar valor a tus iniciativas.
+
+# Archivos incluidos
+
+## **PowerBI_and_Excel:**
+
+Cuenta con algunos archivos de excel y Power BI para mostrar el manejo de dichos programas
+
+# Invitación
+
+Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) el cual es una propuesta que busca enseñas archivos con funciones básicas de diversos programas
+
+# Nota aclaratoria
+
+El repositorio esta en proceso por lo que lentamente se incluiran archivos, gracias por tu visita, y no dudes en ponerte en contacto para discutir cómo puedo aportar valor a tus iniciativas.
 
 
 
@@ -21,4 +34,17 @@ I employ a combination of statistical techniques, machine learning, and data vis
 
 Explore the projects below to see examples of my work and understand how I can contribute to your goals. I am committed to excellence and innovation in data analysis, and I am excited about the potential to collaborate on future projects.
 
-Thank you for visiting, and please feel free to reach out to discuss how I can add value to your initiatives.
+
+# Included Files
+
+## PowerBI_and_Excel:
+
+It includes some Excel and Power BI files to demonstrate the handling of these programs.
+
+# Invitation
+
+Additionally, I would like you to visit my repository [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) , which is a proposal that aims to provide files with basic functions for various programs.
+
+Note:
+
+The repository is a work in progress, so files will be added gradually. Thank you for visiting, and please feel free to contact me to discuss how I can contribute to your initiatives.
