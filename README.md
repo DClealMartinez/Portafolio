@@ -16,7 +16,7 @@ Cuenta con algunos archivos de excel y Power BI para mostrar el manejo de dichos
 
 # Invitación
 
-Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) el cual es una propuesta que busca enseñas archivos con funciones básicas de diversos programas
+Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprogramar el cual es una propuesta que busca enseñas archivos con funciones básicas de diversos programas
 
 # Nota aclaratoria
 
@@ -43,8 +43,8 @@ It includes some Excel and Power BI files to demonstrate the handling of these p
 
 # Invitation
 
-Additionally, I would like you to visit my repository [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) , which is a proposal that aims to provide files with basic functions for various programs.
+Additionally, I would like you to visit my repository [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprograma, which is a proposal that aims to provide files with basic functions for various programs.
 
-Note:
+# Note:
 
 The repository is a work in progress, so files will be added gradually. Thank you for visiting, and please feel free to contact me to discuss how I can contribute to your initiatives.
