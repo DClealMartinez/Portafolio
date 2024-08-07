@@ -14,7 +14,7 @@ Explora los proyectos a continuación para ver ejemplos de mi trabajo y comprend
 
 Cuenta con algunos archivos de excel y Power BI para mostrar el manejo de dichos programas
 
-### **Python_proyecto_feminicidio**
+## **Python_proyecto_feminicidio:**
 
 Proyecto que cuenta con analisis de texto Y herramienta ELT sobre el feminicido.
 
@@ -44,7 +44,7 @@ Explore the projects below to see examples of my work and understand how I can c
 
 It includes some Excel and Power BI files to demonstrate the handling of these programs.
 
-### **Python_proyecto_feminicidio**
+## **Python_proyecto_feminicidio:**
 
 Project that includes text analysis and an ELT tool on femicide.
 
