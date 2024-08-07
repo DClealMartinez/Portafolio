@@ -45,4 +45,4 @@ It includes some Excel and Power BI files to demonstrate the handling of these p
 Additionally, I would like you to visit my repository [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprograma, which is a proposal that aims to provide files with basic functions for various programs.
 
 🔔
->** Note:** The repository is a work in progress, so files will be added gradually. Thank you for visiting, and please feel free to contact me to discuss how I can contribute to your initiatives.
+>**Note:** The repository is a work in progress, so files will be added gradually. Thank you for visiting, and please feel free to contact me to discuss how I can contribute to your initiatives.
