@@ -20,7 +20,7 @@ Proyecto que cuenta con analisis de texto Y herramienta ELT sobre el feminicido.
 
 # Invitación
 
-Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprogramar el cual es una propuesta que busca enseñas archivos con funciones básicas de diversos programas
+Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprogramar el cual es una propuesta que busca enseñar archivos con funciones básicas de diversos programas
 
 🔔
 >**Nota Acaratoria** El repositorio esta en proceso por lo que lentamente se incluiran archivos, gracias por tu visita, y no dudes en ponerte en contacto para discutir cómo puedo aportar valor a tus iniciativas.
