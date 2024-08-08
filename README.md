@@ -18,6 +18,10 @@ Cuenta con algunos archivos de excel y Power BI para mostrar el manejo de dichos
 
 Proyecto que cuenta con analisis de texto Y herramienta ELT sobre el feminicido.
 
+## Valoración
+
+Es un proyecto finaciero originalmente planeado en excel que cuenta además de la valoración con la medidas de ratios y indicadores financiero
+
 # Invitación
 
 Adicionalmente, me gustaria que visitaran mi repositorio [Basico para programar]([https://github.com/DClealMartinez/Basicoprogramar]) https://github.com/DClealMartinez/Basicoprogramar el cual es una propuesta que busca enseñar archivos con funciones básicas de diversos programas
@@ -47,6 +51,8 @@ It includes some Excel and Power BI files to demonstrate the handling of these p
 ## **Python_proyecto_feminicidio:**
 
 Project that includes text analysis and an ELT tool on femicide.
+
+## **
 
 # Invitation
 
