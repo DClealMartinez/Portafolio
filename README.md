@@ -52,7 +52,9 @@ It includes some Excel and Power BI files to demonstrate the handling of these p
 
 Project that includes text analysis and an ELT tool on femicide.
 
-## **
+## Valoración
+
+It’s a financial project originally planned in Excel that includes not only valuation but also financial ratios and indicators.
 
 # Invitation
 
