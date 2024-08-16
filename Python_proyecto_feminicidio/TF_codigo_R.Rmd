@@ -1,0 +1,66 @@
+---
+title: "graficos trabajo final"
+author: "carolina Leal"
+date: "2024-05-21"
+output: html_document
+---
+
+```{r setup, inclu}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Descripción
+
+El presente documento es una constancia del código utilizado en el programa de **r** para la presentación del trabajo final, de métodos computacionales de políticas públicas, el cual aborda el tema del feminicidio.
+
+### Librerias
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(ggplot2)
+library(dplyr)
+```
+
+-----------------------------------------------------
+### Bases de datos ----
+```{r}
+#ruta_sintitulo <- "ruta/de/tu/archivo" 
+#gapminder_sintitulo <- read_csv(ruta_sintitulo,                                col_names = FALSE)
+## datos de femincidios de la cepal del 2017 al 2022
+cepal <- read_csv("feminicidio_2017_2022.csv")
+```
+### limpieaza de pae se datos
+````{r}
+cepal_long$value <- as.numeric(cepal_long$value) # verificar que los datos sean númericos
+cepal_long <- cepal_long %>% filter(!is.na(value)) # verificar que no hay datos vacios
+
+````
+
+### Graficos
+#### Grafico 
+```{r pressure, echo=FALSE}
+
+# Convertir los datos de formato amplio a formato largo
+colores <- c("#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", 
+             "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", 
+             "#bcbd22", "#17becf", "#aec7e8", "#ffbb78", 
+             "#98df8a", "#ff9896", "#c5b0d5", "#c49c94")
+
+
+cepal_long <- pivot_longer(cepal, 
+                           cols = starts_with("20"), 
+                           names_to = "year", 
+                           values_to = "value")
+
+ggplot(cepal_long, aes(x = year, y = value, fill = `País__ESTANDAR`)) + 
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_manual(values = colores) + 
+  labs(title = "Número de feminicidios por año y país", 
+       x = "Año", 
+       y = "Número de feminicidios") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
